@@ -10,7 +10,7 @@ const ScreenWrapper: React.FC<ScreenWrapperProps> = ({children}) => {
   const route = useRoute();
 
   useEffect(() => {
-    if (route.name === 'SplashScreen') {
+    if (route.name === 'SplashScreen' || route.name === 'Login') {
       StatusBar.setTranslucent(true);
       StatusBar.setBackgroundColor('transparent');
       StatusBar.setBarStyle('dark-content');

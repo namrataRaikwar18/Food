@@ -3,6 +3,7 @@ export const intersect1 = require('./Intersect1.png');
 export const intersect2 = require('./Intersect4.png');
 export const onboarding1 = require('./onboarding1.png')
 export const onboarding2 = require('./onboarding2.png')
-export const onboarding3 = require('./onboarding3.png')
-
-
+export const onboarding3 = require('./onboarding3.png');
+export const authHeaderImg2 = require('./authHeaderImg2.png');
+export const authHeaderImg1 = require('./authHeaderImg1.png');
+export const auth1 = require('./auth1.png');

@@ -97,6 +97,7 @@ const styles = StyleSheet.create({
   },
   topImg: {
     width: responsiveWidth(percentageWidth(183)),
+  
     height: responsiveHeight(percentageHeight(105)),
     resizeMode: 'contain',
   },
